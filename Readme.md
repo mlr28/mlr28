@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 - Architecture Design - `C4` `UML`
 
 
+### More about Me!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlr28&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=mlr28&theme=tokyonight&show_icons=true)
+
+
 
 
 
