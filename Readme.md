@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 ### Tech Stacks
 - Java - `Spring Boot` 
-- PHP - Laravel , CodeIgniter 
-- Mobile - Android, iOS, Ionic Cordova 
-- SQL - MySQL, MongoDB, SQLite
-- Cloud - AWS, Azure
-- DevOps - Jenkins, Docker
-- Testing frameworks - jUnit, Mockito, jMockit
+- PHP - `Laravel` `CodeIgniter` 
+- Mobile - `Android` `iOS` `Ionic Cordova` 
+- SQL - `MySQL` `MongoDB` `SQLite`
+- Cloud - `AWS` `Azure`
+- DevOps - `Jenkins` `Docker`
+- Testing frameworks - `jUnit` `Mockito` `jMockit`
 
 ### Tools Familiar with
 - GIT - Bitbucket | GitHub | GitLab
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Operating System - MAC | Linux | Windows
 - Design tools - Balsamiq | Draw.io
 - IDE - Android Studio | IntelliJ | VS Code
-- Architecture Design - C4 | UML75%
+- Architecture Design - `C4` `UML`
 
 
 
