@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### Tech Stacks
-- Java - Spring Boot 
+- Java - `Spring Boot` 
 - PHP - Laravel , CodeIgniter 
 - Mobile - Android, iOS, Ionic Cordova 
 - SQL - MySQL, MongoDB, SQLite
