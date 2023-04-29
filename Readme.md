@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - Testing frameworks - `jUnit` `Mockito` `jMockit`
 
 ### Tools Familiar with
-- GIT - Bitbucket | GitHub | GitLab
-- Testing tools - Postman | Newman | jMeter
-- Operating System - MAC | Linux | Windows
-- Design tools - Balsamiq | Draw.io
-- IDE - Android Studio | IntelliJ | VS Code
+- GIT - `Bitbucket` `GitHub` `GitLab`
+- Testing tools - `Postman` `Newman` `jMeter`
+- Operating System - `MAC` `Linux` `Windows`
+- Design tools - `Balsamiq` `Draw.io`
+- IDE - `Android Studio` `IntelliJ` `VS Code`
 - Architecture Design - `C4` `UML`
 
 
