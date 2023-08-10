@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - Mobile - `Android` `iOS` `Ionic Cordova` 
 - SQL - `MySQL` `MongoDB` `SQLite`
 - Cloud - `AWS` `Azure`
-- DevOps - `Jenkins` `Docker`
+- DevOps - `Jenkins` `Docker` `Azure DevOps`
 - Testing frameworks - `jUnit` `Mockito` `jMockit`
 
 ### Tools Familiar with
-- GIT - `Bitbucket` `GitHub` `GitLab`
+- GIT - `Bitbucket` `GitHub` `GitLab` `Azure DevOps`
 - Testing tools - `Postman` `Newman` `jMeter`
 - Operating System - `MAC` `Linux` `Windows`
 - Design tools - `Balsamiq` `Draw.io`
