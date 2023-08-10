@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my `Cloud Architecture` upgradation
 - 🌱 I’m currently learning `K8S` and `Azure`
-- 💬 Ask me about `Java`, `Spring framework (SpringBoot, Spring Integration)` and backend development
+- 💬 Ask me about `Java`, `Spring framework (SpringBoot, Spring Integration)` and `CI /CD`
 - 😄 Pronouns: He
 - ⚡ Fun fact: Code, Ride, Help Others and Live Happily
 
